@@ -1,0 +1,3 @@
+﻿For testing purposes I didn't write any unit tests. However, I did play the game normally and make sure everything works correctly.
+(Points don't, I realize. I didn't get the results form up and running either. I'll finish that sometime next week, but I'm submitting right now this as is.)
+I also played a game with some people and everything works properly.
